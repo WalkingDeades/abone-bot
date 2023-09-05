@@ -1,0 +1,20 @@
+{
+  "name": "abone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0",
+    "http": "^0.0.1-security",
+    "module": "^1.1.0",
+    "os": "^0.1.2",
+    "os-utils": "^0.0.14"
+  }
+}
